@@ -1,0 +1,10 @@
+{
+  "images": [
+    {
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518294213/20347706651_15c22408a8_k_ra8utl.jpg",
+      "title": "test image title"
+    }
+  ],
+  "title": "Gallery title",
+  "subtitle": "Gallery Subtitle"
+}

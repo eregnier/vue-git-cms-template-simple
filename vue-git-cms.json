@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "title": "Index",
+      "template": "templates/main2.html",
+      "destination": "index.html",
+      "type": "html",
+      "fragments": [{
+        "id": "headerText",
+        "title": "Header text",
+        "fragment": "fragments/main-headertext.json",
+        "type": "gallery",
+        "maxImages": 1
+      },{
+        "id": "main",
+        "title": "Main text",
+        "fragment": "fragments/main.html",
+        "type": "html"
+      },{
+        "id": "gallery",
+        "title": "Main gallery",
+        "fragment": "fragments/indexGallery1.json",
+        "type": "gallery",
+        "max_image_width": 575,
+        "max_image_height": 390,
+        "maxImages": 2
+      },{
+        "id": "gallery2",
+        "title": "Additional gallery",
+        "fragment": "fragments/indexGallery2.json",
+        "type": "gallery",
+        "max_image_width": 170,
+        "max_image_height": 170,
+        "maxImages": 4
+      }]
+    },
+    {
+      "title": "The Place",
+      "template": "templates/compact.html",
+      "fragment": "fragments/the-place.html",
+      "destination": "the-place.html",
+      "type": "html"
+    },{
+      "title": "Photos",
+      "template": "templates/gallery.html",
+      "fragment": "fragments/photos.json",
+      "destination": "photos.html",
+      "type": "html"
+    },
+    {
+      "title": "Contact",
+      "template": "templates/compact.html",
+      "fragment": "fragments/contact.html",
+      "destination": "contact.html",
+      "type": "html"
+    }
+  ],
+  "options": {
+    "heroBackground": "http://subsolardesigns.com/panino/wp-content/uploads/2017/11/26698f29504947.55f6cb41643b4.jpg",
+    "title": "Test site"
+  },
+  "optionsSchema": {
+    "fields": [
+      {
+        "type": "input",
+        "inputType": "text",
+        "label": "heroBackground",
+        "model": "heroBackground"
+      }
+    ]
+  }
+}
