@@ -69,6 +69,13 @@
       "fragment": "fragments/main.html",
       "destination": "test.html",
       "type": "html"
+    },
+    {
+      "title": "testPage",
+      "template": "templates/compact.html",
+      "fragment": "fragments/main.html",
+      "destination": "test-page.html",
+      "type": "html"
     }
   ],
   "options": {
