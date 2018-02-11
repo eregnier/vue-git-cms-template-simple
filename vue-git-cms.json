@@ -90,13 +90,6 @@
       "fragment": "fragments/main.html",
       "destination": "test-page4.html",
       "type": "html"
-    },
-    {
-      "title": "test5",
-      "template": "templates/compact.html",
-      "fragment": "fragments/main.html",
-      "destination": "test5.html",
-      "type": "html"
     }
   ],
   "options": {
