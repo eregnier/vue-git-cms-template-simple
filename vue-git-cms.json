@@ -42,7 +42,7 @@
       "type": "html"
     },{
       "title": "Photos",
-      "template": "templates/gallery.html",
+      "template": "templates/compact.html",
       "fragment": "fragments/photos.json",
       "destination": "photos.html",
       "type": "html"
