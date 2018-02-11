@@ -76,13 +76,6 @@
       "fragment": "fragments/main.html",
       "destination": "test2.html",
       "type": "html"
-    },
-    {
-      "title": "test3",
-      "template": "templates/compact.html",
-      "fragment": "fragments/main.html",
-      "destination": "test3.html",
-      "type": "html"
     }
   ],
   "options": {
