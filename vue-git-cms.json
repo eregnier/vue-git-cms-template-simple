@@ -6,36 +6,41 @@
       "destination": "index.html",
       "type": "html",
       "default": true,
-      "fragments": [{
-        "id": "headerText",
-        "title": "Header text",
-        "fragment": "fragments/main-headertext.json",
-        "type": "gallery",
-        "maxImages": 1
-      },{
-        "id": "main",
-        "title": "Main text",
-        "fragment": "fragments/main.html",
-        "type": "html"
-      },{
-        "id": "gallery",
-        "title": "Main gallery",
-        "fragment": "fragments/indexGallery1.json",
-        "type": "gallery",
-        "max_image_width": 575,
-        "max_image_height": 390,
-        "maxImages": 2
-      },{
-        "id": "gallery2",
-        "title": "Additional gallery",
-        "fragment": "fragments/indexGallery2.json",
-        "type": "gallery",
-        "max_image_width": 170,
-        "max_image_height": 170,
-        "cropping": "server",
-        "cropping_aspect_ratio": 1,
-        "maxImages": 4
-      }]
+      "fragments": [
+        {
+          "id": "headerText",
+          "title": "Header text",
+          "fragment": "fragments/main-headertext.json",
+          "type": "gallery",
+          "maxImages": 1
+        },
+        {
+          "id": "main",
+          "title": "Main text",
+          "fragment": "fragments/main.html",
+          "type": "html"
+        },
+        {
+          "id": "gallery",
+          "title": "Main gallery",
+          "fragment": "fragments/indexGallery1.json",
+          "type": "gallery",
+          "max_image_width": 575,
+          "max_image_height": 390,
+          "maxImages": 2
+        },
+        {
+          "id": "gallery2",
+          "title": "Additional gallery",
+          "fragment": "fragments/indexGallery2.json",
+          "type": "gallery",
+          "max_image_width": 170,
+          "max_image_height": 170,
+          "cropping": "server",
+          "cropping_aspect_ratio": 1,
+          "maxImages": 4
+        }
+      ]
     },
     {
       "title": "The Place",
@@ -43,7 +48,8 @@
       "fragment": "fragments/the-place.html",
       "destination": "the-place.html",
       "type": "html"
-    },{
+    },
+    {
       "title": "Photos",
       "template": "templates/gallery.html",
       "fragment": "fragments/photos.json",
@@ -55,6 +61,13 @@
       "template": "templates/compact.html",
       "fragment": "fragments/contact.html",
       "destination": "contact.html",
+      "type": "html"
+    },
+    {
+      "title": "test",
+      "template": "templates/test.html",
+      "fragment": "fragments/main.html",
+      "destination": "test.html",
       "type": "html"
     }
   ],
