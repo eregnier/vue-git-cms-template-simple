@@ -69,6 +69,13 @@
       "fragment": "fragments/main.html",
       "destination": "testmenu.html",
       "type": "html"
+    },
+    {
+      "title": "testMenu2",
+      "template": "templates/compact.html",
+      "fragment": "fragments/main.html",
+      "destination": "test-menu2.html",
+      "type": "html"
     }
   ],
   "options": {
