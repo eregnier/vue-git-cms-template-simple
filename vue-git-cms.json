@@ -16,7 +16,7 @@
         "id": "main",
         "title": "Main text",
         "fragment": "fragments/main.html",
-        "type": "html",
+        "type": "html"
       },{
         "id": "gallery",
         "title": "Main gallery",
