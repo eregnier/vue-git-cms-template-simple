@@ -14,7 +14,7 @@
           "type": "gallery",
           "maxImages": 1
         },{
-          "id": "headerText",
+          "id": "mainTextTitle",
           "title": "Main text title",
           "fragment": "fragments/main-text-title.json",
           "type": "form",
@@ -57,6 +57,12 @@
           "cropping": "server",
           "cropping_aspect_ratio": 1,
           "maxImages": 4
+        },{
+          "id": "footer",
+          "title": "Footer",
+          "fragment": "fragments/main-footer.json",
+          "type": "gallery",
+          "maxImages": 1
         }
       ]
     },
