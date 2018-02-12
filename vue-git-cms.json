@@ -43,7 +43,7 @@
     },{
       "title": "Photos",
       "template": "templates/compact.html",
-      "fragment": "fragments/photos.json",
+      "fragment": "fragments/photos.html",
       "destination": "photos.html",
       "type": "html"
     },
