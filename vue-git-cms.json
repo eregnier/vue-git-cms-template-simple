@@ -13,6 +13,24 @@
           "fragment": "fragments/main-headertext.json",
           "type": "gallery",
           "maxImages": 1
+        },{
+          "id": "headerText",
+          "title": "Main text title",
+          "fragment": "fragments/main-text-title.json",
+          "type": "form",
+          "schema": {
+            "fields": [{
+                "type": "input",
+                "inputType": "text",
+                "label": "Title",
+                "model": "title",
+            },{
+                "type": "input",
+                "inputType": "text",
+                "label": "Subtitle",
+                "model": "subtitle",
+            }]
+          }
         },
         {
           "id": "main",
