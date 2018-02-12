@@ -13,23 +13,27 @@
           "fragment": "fragments/main-headertext.json",
           "type": "gallery",
           "maxImages": 1
-        },{
+        },
+        {
           "id": "mainTextTitle",
           "title": "Main text title",
           "fragment": "fragments/main-text-title.json",
           "type": "form",
           "schema": {
-            "fields": [{
+            "fields": [
+              {
                 "type": "input",
                 "inputType": "text",
                 "label": "Title",
                 "model": "title"
-            },{
+              },
+              {
                 "type": "input",
                 "inputType": "text",
                 "label": "Subtitle",
                 "model": "subtitle"
-            }]
+              }
+            ]
           }
         },
         {
@@ -57,7 +61,8 @@
           "cropping": "server",
           "cropping_aspect_ratio": 1,
           "maxImages": 4
-        },{
+        },
+        {
           "id": "footer",
           "title": "Footer",
           "fragment": "fragments/main-footer.json",
@@ -85,13 +90,6 @@
       "template": "templates/compact.html",
       "fragment": "fragments/contact.html",
       "destination": "contact.html",
-      "type": "html"
-    },
-    {
-      "title": "testMenu2",
-      "template": "templates/compact.html",
-      "fragment": "fragments/main.html",
-      "destination": "test-menu2.html",
       "type": "html"
     }
   ],
