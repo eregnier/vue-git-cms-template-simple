@@ -1,26 +1,26 @@
 {
   "images": [
     {
-      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518305128/DSC_0947_zuhimy.jpg",
-      "title": "image1",
-      "description": "a long description for a tiny image. a long description for a tiny image.a long description for a tiny image. a long description for a tiny image."
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518403835/23823573_128431291168451_4040365040602185728_n_gwbrno.jpg",
+      "title": "A walk in the Jungle",
+      "description": "Sometimes, you feel that man is not the master of those places"
     },
     {
-      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518305139/DSC_0935_chpdeq.jpg",
-      "title": "image2",
-      "description": "a long description for a tiny image. a long description for a tiny image.a long description for a tiny image. a long description for a tiny image."
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518403848/23595824_544019092657072_3625528035110813696_n_wwezn6.jpg",
+      "title": "Amazing sunsets",
+      "description": "3 days on a boat, observing landscapes and animals"
     },
     {
-      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518305151/DSC_0904_a0np7n.jpg",
-      "description": "a long description for a tiny image. a long description for a tiny image. a long description for a tiny image. a long description for a tiny image.",
-      "title": "image3"
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518403871/22220580_1459572804091949_3431237067693096960_n_o7xnus.jpg",
+      "description": "A patagonian adventure, cold but beautiful",
+      "title": "Down to the south"
     },
     {
-      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518305162/DSC_0914_cbsmfw.jpg",
-      "title": "image4",
-      "description": "a long description for a tiny image. a long description for a tiny image.a long description for a tiny image. a long description for a tiny image."
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518403886/22280613_137386863556988_4114225468637446144_n_ipnzzy.jpg",
+      "title": "Tradicional Peru",
+      "description": "A \"mamita\" taking care of her crops"
     }
   ],
-  "title": "Gallery with huge descrition",
-  "subtitle": "miniatures with text"
+  "title": "South American Adventures",
+  "subtitle": "Some lost and found shots"
 }

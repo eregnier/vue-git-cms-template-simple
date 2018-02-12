@@ -2,7 +2,13 @@
   "images": [
     {
       "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518294213/20347706651_15c22408a8_k_ra8utl.jpg",
-      "title": "test image title"
+      "title": "Un Zocalo au Mexique",
+      "description": "La Place centrale de San Cristobal de las Casas"
+    },
+    {
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518403765/DSCN3781_lelfp0.jpg",
+      "title": "Plage de salango",
+      "description": "Magnifique cette plage"
     }
   ],
   "title": "Gallery title",
