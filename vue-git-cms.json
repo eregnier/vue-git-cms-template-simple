@@ -23,12 +23,12 @@
                 "type": "input",
                 "inputType": "text",
                 "label": "Title",
-                "model": "title",
+                "model": "title"
             },{
                 "type": "input",
                 "inputType": "text",
                 "label": "Subtitle",
-                "model": "subtitle",
+                "model": "subtitle"
             }]
           }
         },
