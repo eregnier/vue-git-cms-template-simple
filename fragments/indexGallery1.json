@@ -2,15 +2,15 @@
   "images": [
     {
       "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518294213/20347706651_15c22408a8_k_ra8utl.jpg",
-      "title": "Un Zocalo au Mexique",
-      "description": "La Place centrale de San Cristobal de las Casas"
+      "title": "A Mexican Zocalo",
+      "description": "The main square of San Cristobal de Las Casas"
     },
     {
-      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518403765/DSCN3781_lelfp0.jpg",
-      "title": "Plage de salango",
-      "description": "Magnifique cette plage"
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1518404835/DSCN3796_nsjijl.jpg",
+      "title": "Salengo beach",
+      "description": "One of the best moments in Ecuador"
     }
   ],
-  "title": "Gallery title",
-  "subtitle": "Gallery Subtitle"
+  "title": "Travel's highlights",
+  "subtitle": "Best pictures taken on the fly"
 }
